@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Easy Workout</string>
+    <string name="easy">Easy</string>
+    <string name="workout">Workout</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="start">Start</string>
+    <string name="bms">BMS</string>
+    <string name="all">All</string>
+</resources>
